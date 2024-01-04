@@ -1,6 +1,6 @@
 # About the Model
 #### - 3 Self Layers with 24 Hidden Units
-#### - COVID-19 Dataset [Click Here to Download the Dataset](https://raw.githubusercontent.com/npradaschnor/Pima-Indians-Diabetes-Dataset/master/diabetes.csv)
+#### - COVID-19 Dataset 
 #### - Adam Optimizer With a Learning Rate of 0.01
 #### - BCELossWithoutLogits Loss Function
 #### - Training Loop With 2000 Epochs
